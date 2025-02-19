@@ -12,5 +12,5 @@ This project is a Telegram bot that sends daily inspirational quotes based on sp
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/specialized-quotes-bot.git
-   cd specialized-quotes-bot
+   git clone https://github.com/yourusername/quote_bot.git
+   cd quote_bot
